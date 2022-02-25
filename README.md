@@ -1,15 +1,37 @@
-### Hi there 👋
 
-<!--
-**reneey30/reneey30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# MORINGA SCHOOL
 
-Here are some ideas to get you started:
+#### My Portfolio , 25 february 2022
 
-I have worked with Huawei technologies before as an Adminstration assistant.Currently am a student at Moringa School.I recently joined Moringa to do software developement. It is a very challenging experience for bearing in mind i have never been in an IT or computer science class. 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### By **Irene Wanjiku Njeru**
+
+## Description
+
+This is my website about my life and projects.
+
+## Setup/Installation Requirements
+
+- Go to your terminal
+- Create a new folder called (MoringaSchool)
+- Navigate to the folder and run the command : git clone https://github.com/reneey30/portifolio-website.git
+- Open on preferred code editor
+
+  [Link to the website](https://reneey30.github.io/portifolio-website/)
+
+## Known Bugs
+
+None yet encountered
+
+## Technologies Used
+
+HTML
+CSS
+
+## Support and contact details
+
+Feel free to contact me at irene.njeru@student.moringaschool.com
+
+### License
+
+[Licence](https://choosealicense.com/licenses/mit/)
+Copyright (c) 2022 **Irene Wanjiku**
