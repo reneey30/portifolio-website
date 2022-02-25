@@ -6,3 +6,17 @@ h1 {
 img {
     height: 300px;
 }
+ul {
+    color: blueviolet;
+}
+em {
+    font-size: medium;
+    color: brown;
+}
+body {
+    background-color: aquamarine;
+}
+p{
+    border: 2px solid powderblue;
+    padding:
+}
